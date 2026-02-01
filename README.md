@@ -87,3 +87,13 @@ prints `done` on the next line.
 ```
 print() ends with a newline. Pass terminator:"" to avoid a newline.
 ```
+
+## Math Functions
+Common functions like `abs`, `min`, and `max` help compute 
+numeric results.
+- `abs(x)` returns the absolute value of `x`
+- `min(x,y)` returns the smaller of `x` and `y`.
+- `max(x,y)` returns the larger of `x` and `y`.
+```
+
+
