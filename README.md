@@ -35,3 +35,55 @@ Example explained:
 In swift interpolation is done using `\(expr)`.
 The most common and simple way to use string interpolation is to embed variable
 names inside string literals.
+
+# Swift Statements
+## swift Statements
+Swift code is built from statements such as 
+`declarations`
+`expressions`
+`control flow`
+Expression & Declaration Statements
+
+- Declarations introduce names (like variables and constants)
+- Expression statements evaluate an expression, such as a function call.
+```
+let  x = 2 // declaration
+print(x) // expression statements
+
+```
+## Semicolons and Blocks
+Semicolons are optional at line ends;
+use them only to separate multiple statements on 
+one line.
+Braces group statements into a block.
+
+Swift does not require semicolons at the end of each line.
+Use them only when writing more than one statement on the same line.
+Braces{ ... } from blocks that group statements.
+
+## Swift Text Output
+[Swift Text Output](https://www.w3schools.com/swift/swift_output.asp)
+
+## Swift Text Output
+Use `Print()` to write text and values to output.
+Use string interpolation to combine values.
+
+## Print Text
+Use `Print() ` to write text.
+interpolate values with `\(expr)`.
+## Print Without Newline
+Use the `terminator` parameter to avoid a trailing newline.
+
+```
+for n in 1...3{
+    print(n,terminator: " ")//prints on one line 
+}
+print("done")
+```
+
+This example prints numbers on a single line by setting `terminator` to a space , then 
+prints `done` on the next line.
+## Tip :
+```
+print() ends with a newline. Pass terminator:"" to avoid a newline.
+```
