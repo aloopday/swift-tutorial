@@ -22,3 +22,11 @@ you can also use annotations for clarity.
 
 ## Optionals
 Use `?` to declare values that may be `nil`
+
+## Swift Print Variables
+
+Print values with concatenation or string interpolation
+Use `\(value)` to insert values. You can set a separator and a terminator.
+## Concatenation and Interpolation
+
+Use concatenation to combine strings and interpolate to embed values inside strings.
