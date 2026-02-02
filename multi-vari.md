@@ -20,3 +20,9 @@ Identifiers must:
 - Avoid keywords unless escaped with backticks.
 They can contain Unicode and must not start with a number.
 
+## Escaping Keywords and Unicode
+Escape keywords with backticks when needed, and remember identifiers can include Unicode characters.
+
+## Use 
+Use backticks to escape reserved words in identifiers, and 
+remember Swift identifiers can include Unicode characters.
