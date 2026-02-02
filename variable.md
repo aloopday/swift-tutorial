@@ -30,3 +30,7 @@ Use `\(value)` to insert values. You can set a separator and a terminator.
 ## Concatenation and Interpolation
 
 Use concatenation to combine strings and interpolate to embed values inside strings.
+
+## Custom Separator and Terminator
+
+Set a `separator` between items and a `terminator` at the end.
