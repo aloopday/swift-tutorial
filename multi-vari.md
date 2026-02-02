@@ -8,3 +8,15 @@ Declaring multiple variables or constants on one line is only recommended if it 
 
 ## With Type Annotations
 Use explicit types when inference could be ambiguous or to document intent.
+
+## Swift Identifiers
+
+Identifiers name variables, constants,types, functions, etc
+
+## Rules for Identifiers
+Identifiers must:
+- start with a letter or underscore.
+- May include numbers after the first character.
+- Avoid keywords unless escaped with backticks.
+They can contain Unicode and must not start with a number.
+
