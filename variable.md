@@ -7,3 +7,7 @@ or annotations as needed.
 Declare constants with `let` and variables with `var`.
 **Constants** cannot be reassigned.
 
+## Swift Type Inference
+
+Swift infers types automatically when possible, but you can also use annotations for clarity.
+
