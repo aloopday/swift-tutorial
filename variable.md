@@ -11,3 +11,14 @@ Declare constants with `let` and variables with `var`.
 
 Swift infers types automatically when possible, but you can also use annotations for clarity.
 
+
+```
+let x = 10 
+let y: Int = 20
+print(x, y)
+```
+## This example shows that Swift infers types automatically when possible, but 
+you can also use annotations for clarity.
+
+## Optionals
+Use `?` to declare values that may be `nil`
