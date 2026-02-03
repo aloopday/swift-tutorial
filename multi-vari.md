@@ -26,3 +26,15 @@ Escape keywords with backticks when needed, and remember identifiers can include
 ## Use 
 Use backticks to escape reserved words in identifiers, and 
 remember Swift identifiers can include Unicode characters.
+
+# Swift Constants
+[Swift Constants](https://www.w3schools.com/swift/swift_constants.asp)
+
+## Swift Constants
+Use `let` to declare constants that don't change.
+## Declare Constants
+Use `let ` to bind a value once so it cannot be reassigned later.
+
+## Constants and Collections
+
+If an array is bound with `let`,you can't mutate(change) it.
