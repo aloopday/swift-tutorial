@@ -38,3 +38,25 @@ Use `let ` to bind a value once so it cannot be reassigned later.
 ## Constants and Collections
 
 If an array is bound with `let`,you can't mutate(change) it.
+
+## Swift Variables in Real-Life
+[Swift-variables](https://www.w3schools.com/swift/swift_variables_reallife.asp)
+
+Swift Variables in Real-life
+Use variables to track values like counters, flags,and user input.
+
+## Example: Counter
+Use a variable to track a counter and print it as it changes
+
+## Greeting 
+Store a value in a variable and use interpolation to print it.
+## Swift Data Types
+[swift data](https://www.w3schools.com/swift/swift_data_types.asp)
+
+Swift Data Types 
+Swift has built-in  types like `Int`,`Double`,`Bool` and `String`.
+Swift uses ***type inference*** to deduce the type from the value.
+
+## Basic Types
+Declare constants with `let` and variables with `var`.
+Swift infers the type from the initial value.
